@@ -5,7 +5,7 @@
 1. 安装yeoman
 
   ```
-  npm install yeoman -g
+  npm install yo -g
   ```
   
 2. 安装[generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension)
